@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    background:  #30363D;
+  }
+  
+
+.mid
+{
+    margin:10%;
+    width: 75%;
+    justify-content: center;
+}
+
+.cardzone
+{
+    margin:10px;
+    width:100px;
+    height: 80%;
+    padding: 20px;
+}
+
+.gap
+{
+    height:50px;
+    background-color: #888888;
+}
+.Card:hover
+{
+    
+        border: 1px solid;
+        padding: 10px;
+        box-shadow: 5px 10px 18px #888888;
+      
+}
